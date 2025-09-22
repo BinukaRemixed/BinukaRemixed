@@ -14,7 +14,7 @@ Here I share projects, music-related tools, and my journey in the electronic mus
 
 ---
 ✨ Let’s connect and make the world dance with music!--
-**BinukaRemixed/BinukaRemixed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BinukaRemixed/BinukaRemixed** is a ✨ _special_ ✨ repository because its https://github.com/BinukaRemixed/BinukaRemixed/edit/main/README.md appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
